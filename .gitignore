@@ -1,0 +1,24 @@
+# Virtual Environment
+GMSenv/
+env/
+venv/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Django
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# Environment Variables
+.env
+
+# OS & Editor Specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
